@@ -5,7 +5,7 @@ Lista de exercícios de lógica de programação em C, resolvidos durante o curs
 ## Conteúdo
 - [x] Estrutura sequencial
 - [x] Estrutura condicional
-- [ ] Estrutura de repetição
+- [x] Estrutura de repetição
 
 ## Estrutura de pastas
 
